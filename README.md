@@ -1,5 +1,7 @@
 # Exercício - Javascript
 Exercício para colocar em prática os aprendizados em JavaScript.
+
+[Exercício - Javascript](https://antuneslv.github.io/exercicio-javascript/index.html#)
  
 ## Enunciado
 Criar uma aplicação para controle dos funcionários.
