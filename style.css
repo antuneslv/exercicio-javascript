@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.container {
+  background-color: white;
+  max-width: 800px;
+  height: 100vh;
+  margin: auto;
+}
+
+.cadastro {
+  padding: 20px;
+  max-width: 580px;
+  margin: auto;
+}
+
+.cadastro h1 {
+  text-align: center;
+  padding: 20px 20px 50px;
+}
+
+.cadastro input {
+  padding: 2px 5px;
+}
+
+.cadastro__contatos {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#cadastrar {
+  display: block;
+  margin: 20px auto ;
+  padding: 4px 8px;
+  font-size: 1.1rem;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.menu__selecao {
+  padding: 30px 0 20px;
+}
+
+.menu__buttons button {
+  margin: 0 5px 30px;
+  padding: 2px 6px;
+  font-size: 0.9rem;
+}
+
+.retorno {
+  margin: 30px 60px;
+}
+
+.retorno p {
+  padding: 8px;
+}
+
+.retorno input {
+  padding: 2px 5px;
+}
+
+.retorno button {
+  padding: 2px 6px;
+  font-size: 0.8rem;
+}
+
+.retorno button:last-child{
+  padding: 2px 6px;
+  font-size: 0.9rem;
+}
