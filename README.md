@@ -19,30 +19,30 @@ CRUD: CREATE, READ, UPDATE, DELETE
 
 ***Regras***
 
-Professor CLT ou PJ
+Professor CLT ou PJ:  
 - CLT
-  -Remuneração fixa
-  -Participação dos lucros da empresa
-  -Salário * a porcentagem de aprovação dos alunos
+  - Remuneração fixa
+  - Participação dos lucros da empresa
+  - Salário * a porcentagem de aprovação dos alunos
 - PJ
   - Professor: 70/hr
   - Professor auxiliar: 30/hr
   - Bonificação por desempenho
   - Baseada na aprovação dos alunos
 
-Psicologo
+Psicologo:  
 - CLT
   - Remuneração fixa
   - Participação dos lucros da empresa
   - salário * metas
 
-Coordenador
+Coordenador:  
 - CLT
   - Remuneração fixa
   - Participação dos lucros da empresa
   - 1.5 * salário * metas
 
-Diretor
+Diretor:  
 - CLT
   - Remuneração fixa
   - Participação dos lucros da empresa
